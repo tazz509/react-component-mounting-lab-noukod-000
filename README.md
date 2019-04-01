@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Describe what happens in the mounting phase of a React component's lifecycle
+1.  Describe what happens in the mounting phase of a React component's lifecycle
 2. Describe what happens in the unmounting phase of a React component's
    lifecycle
 3. Practice performing setup and teardown actions at the appropriate point in
